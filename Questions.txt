@@ -1,0 +1,35 @@
+Generic Questions
+1.	How many unique cities are present in the dataset?
+2.	Which city is associated with each store branch?
+
+Product Analysis Questions
+1.	How many unique product lines are available in the dataset?
+2.	What is the most commonly used payment method?
+3.	Which product line has the highest number of units sold?
+4.	What is the total revenue generated in each month?
+5.	In which month was the cost of goods sold (COGS) the highest?
+6.	Which product line generated the most revenue?
+7.	Which city recorded the highest total revenue?
+8.	Which product line had the highest average VAT percentage?
+9.	Can we classify each product line as “Good” or “Bad” based on whether its sales volume is above or below the average?
+10.	Which branch sold more products than the overall average number of products sold?
+11.	For each gender, which product line is purchased the most?
+12.	What is the average customer rating for each product line?
+
+Sales Analysis Questions
+1.	How many sales were made during each time of day (Morning, Afternoon, Evening) for every day of the week?
+2.	Which customer type contributes the most to the company’s total revenue?
+3.	Which city has the highest average VAT percentage?
+4.	Which customer type pays the most VAT on average?
+
+Customer Analysis Questions
+1.	How many unique customer types are present in the dataset?
+2. How many different payment methods are used by customers?
+3.	What is the most common customer type?
+4.	Which customer type makes the most purchases?
+5.	What is the gender distribution among the customers?
+6.	How does the gender distribution vary across different store branches?
+7.	During which time of the day do customers give the highest average ratings?
+8.	During which time of the day do customers in each branch give the best ratings?
+9. On which day of the week do customers provide the best average ratings?
+10.	For each branch, which day of the week receives the highest number of sales?
